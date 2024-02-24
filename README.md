@@ -70,7 +70,7 @@
 
 <div align="center">
   <a  href="https://onpythonica.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
-  <a href="https://wendellast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henriqueanjosfront.end" target="__blank"></a>
+  <a href="https://medium.com/@henriqueanjosfront.end/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henriqueanjosfront.end" target="__blank"></a>
 </div>
 
 <br>
