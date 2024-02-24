@@ -76,3 +76,6 @@
 <br>
 
 [![Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anjos04&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/anjos04)
+<p style="text-align: center;">
+  <img src="https://profile-counter.glitch.me/{anjos04}/count.svg">
+</p>
