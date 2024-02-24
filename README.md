@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Henrique%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 
@@ -76,6 +76,3 @@
 <br>
 
 [![Henrique's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anjos04&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/anjos04)
-<p style="text-align: center;">
-  <img src="https://profile-counter.glitch.me/{anjos04}/count.svg">
-</p>
