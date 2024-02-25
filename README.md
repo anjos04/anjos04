@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/anjos0"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord" width="60" height="60"/></a>
-  <a href="https://www.instagram.com/anjos.henrique04/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram" width="60" height="60"/></a>
+  <a href="https://www.instagram.com/rickprograming/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram" width="60" height="60"/></a>
   <a href="mailto:henriqueanjosfront.end@gmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email" width="60" height="60"/></a>
   <a href="https://www.linkedin.com/in/henrique-dio/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin" width="60" height="60"/></a>
 </p>
